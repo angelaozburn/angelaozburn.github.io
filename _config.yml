@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Angela's personal professional website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Angela Renee Ozburn
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: 
+  email: ozburn@ohsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
+  twitter: angela_ozburn
+  linkedin: https://www.linkedin.com/in/angela-ozburn-8b464824/
+  github: angelaozburn
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
